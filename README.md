@@ -1,24 +1,72 @@
-# Hi, I'm Gideon Dadey 👋  
+<h1 align="center">Hi there, I'm Gideon Dadey 👋</h1>
 
-🚀 **Web Developer** | Passionate about building responsive, user-centric web applications.  
-💻 **Experienced in:** JavaScript, React, Node.js  
-📍 **Location:** Accra, Ghana  
-
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gideon-dadey-263128182/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/cannymirah)  
-
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<p align="center">
+  <strong>Full-Stack Web Developer | JavaScript | React | Node.js</strong>
 </p>
 
-## 📊 GitHub Stats  
-![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cannymirah22&show_icons=true&theme=dark)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://twitter.com/cannymirah" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter" alt="Twitter Badge">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email Badge">
+  </a>
+</p>
 
-## 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact)  
+---
+
+### **💡 About Me**
+- 🔭 Passionate about building **scalable, high-performance web applications**  
+- 🏆 **3+ years** of experience in **JavaScript, React, and Node.js**  
+- 📍 Based in **Accra, Ghana**, working remotely with **global teams**  
+- 🎯 Focused on **modern UI/UX design & backend performance**  
+- 🌱 Currently learning **AI integration & cloud computing**  
+
+---
+
+## **🛠️ Tech Stack**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="50" />
+</p>
+
+---
+
+## **📊 GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cannymirah22&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cannymirah22&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## **📈 Most Used Technologies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## **📬 Get in Touch**
+📩 **Email:** your.email@example.com  
+🌐 **Portfolio:** [Coming Soon]  
+
+---
+
+### **🚀 Let’s Build Something Great!**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
