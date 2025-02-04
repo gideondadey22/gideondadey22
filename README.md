@@ -1,88 +1,82 @@
-## 👋 Hi, I'm Gideon Dadey (@Cannymirah22)  
-### 🚀 Full-Stack Web Developer | Passionate about building user-centric applications   
-
-![Profile Views](https://komarev.com/ghpvc/?username=Cannymirah22&color=blue)
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
----  
-
-### 🌎 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-dadey-263128182)](https://www.linkedin.com/in/gideon-dadey-263128182)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cannymirah)](https://twitter.com/cannymirah)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gideondadey22@gmail.com)  
-
----  
-
-### 🛠️ Tech Stack & Tools  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-
----  
-
-### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=onedark)  
-
----  
-
-### 🚀 Featured Projects  
-- 🛒 **[POS-Inventory-System](https://github.com/Cannymirah22/POS-Inventory-System)** - A powerful inventory management system.  
-- 🛍️ **[Next.js E-Commerce](https://github.com/Cannymirah22/next-ecommerce)** - Scalable and modern e-commerce platform.  
-- 📊 **[React Dashboard](https://github.com/Cannymirah22/react-dashboard)** - An interactive dashboard with real-time analytics.  
-
----  
-
-### 📈 GitHub Stats  
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cannymirah22&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
-</p>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38C2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+|+Node.js+|+JavaScript;Passionate+About+Scalable+Web+Apps;Let's+Build+Something+Awesome!" />
+</p>
 
-### 📊 Contribution Graph  
+<h1 align="center">👋 Hello, I'm Gideon Dadey </h1>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cannymirah22&theme=react-dark" alt="GitHub Activity Graph" />
-</p>  
+  <img src="https://github.com/Cannymirah22/Cannymirah22/blob/main/profile.gif" width="600" />
+</p>
 
----  
+<p align="center">
+  <strong>🚀 Full-Stack Web Developer | JavaScript | React | Node.js</strong>
+</p>
 
-### 🎵 Now Playing on Spotify  
-![Spotify](https://novatorem.vercel.app/api/spotify)  
+---
 
----  
+## 📌 **About Me**
+- 👨‍💻 Experienced in **JavaScript, React, Node.js, Express, MongoDB**
+- 🚀 Passionate about **building fast, scalable, and user-centric web apps**
+- 🔭 Currently working on **AI-integrated web applications**
+- 🎯 Open to **collaborations, freelancing, and mentorship opportunities**
+- 🌎 Based in **Accra, Ghana** but open to **remote work**
+- ✍️ Tech Blogger & Open Source Contributor
 
-### 😂 Random Dev Joke  
-![Jokes](https://readme-jokes.vercel.app/api)  
+---
 
----  
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,docker,aws,git,figma" />
+</p>
 
-### 📅 Weekly Coding Activity  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Cannymirah22)  
+---
 
----  
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cannymirah22&theme=tokyonight" />
+</p>
 
-### 📝 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-💡 _This section updates automatically if you write blogs on Dev.to, Hashnode, or Medium._  
+---
 
----  
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=radical&margin-w=15&margin-h=15" />
+</p>
 
-### 🎯 Profile Summary  
-- 🔭 Currently working on **cutting-edge web applications**  
-- 🌱 Learning **AI integration with JavaScript & Next.js**  
-- 🛠️ Open to collaborations on **interesting projects**  
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB, and UI/UX Design**  
+---
 
----  
+## 📊 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&theme=tokyonight" />
+</p>
 
-🚀 _**Let's build something amazing together!**_ 🎉  
+---
 
----  
+## 🌍 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/cannymirah" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+## ⚡ **Fun Fact**
+💡 **"The best way to learn is to build. Let's create something amazing together!"**  
+🚀 **Let's push the boundaries of what's possible in web development!**
+
+---
+
+<h3 align="center">💻 Keep Coding & Keep Innovating! 🚀</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
