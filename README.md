@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Badge">
   </a>
   <a href="https://twitter.com/cannymirah" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter" alt="Twitter Badge">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter Badge">
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email Badge">
+    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email Badge">
   </a>
 </p>
 
@@ -61,8 +61,17 @@
 ---
 
 ## **📬 Get in Touch**
-📩 **Email:** your.email@example.com  
-🌐 **Portfolio:** [Coming Soon]  
+<p align="left">
+  <a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/cannymirah" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter">
+  </a> &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email">
+  </a>
+</p>
 
 ---
 
