@@ -28,6 +28,12 @@
 
 ---
 
+## 📊 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" />
+</p>
+
+
 ## 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" />
@@ -41,14 +47,6 @@
 </p>
 
 ---
-
-## 📊 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" />
-</p>
-
----
-
 ## 📌 **Pinned Repositories**
 Check out some of my pinned repositories on GitHub:  
 ➡️ [GitHub Profile](https://github.com/Cannymirah22?tab=repositories)
