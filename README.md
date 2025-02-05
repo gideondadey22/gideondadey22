@@ -6,10 +6,6 @@
 <h1 align="center">👋 Hello, I'm Gideon Dadey </h1>
 
 <p align="center">
-  <img src="https://github.com/Cannymirah22/Cannymirah22/blob/main/profile.gif" width="600" />
-</p>
-
-<p align="center">
   <strong>🚀 Full-Stack Web Developer | JavaScript | React | Node.js</strong>
 </p>
 
