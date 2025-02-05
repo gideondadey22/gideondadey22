@@ -28,17 +28,6 @@
 
 ---
 
-## 🚀 **Featured Projects**
-Here are some of my best projects:
-
-- **[Project Name](GitHub Repo Link)** - A brief description of what it does.
-- **[Another Project](GitHub Repo Link)** - Another cool project with a short summary.
-- **[Awesome AI Project](GitHub Repo Link)** - AI-powered web application that does XYZ.
-
-*(Feel free to update these with actual project links.)*
-
----
-
 ## 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" />
@@ -63,17 +52,6 @@ Here are some of my best projects:
 ## 📌 **Pinned Repositories**
 Check out some of my pinned repositories on GitHub:  
 ➡️ [GitHub Profile](https://github.com/Cannymirah22?tab=repositories)
-
----
-
-## 📜 **Tech Blogs & Articles**
-I love sharing knowledge! Check out some of my latest articles:  
-
-- **[Article Title](Blog Link)** - A brief summary of the blog.
-- **[Another Blog](Blog Link)** - An interesting article on web development.
-- **[AI & Web Development](Blog Link)** - How AI is transforming the web.
-
-*(Feel free to update these with actual blog links.)*
 
 ---
 
