@@ -1,5 +1,3 @@
-Here's your updated GitHub README with the Top Languages section dynamically updating:
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38C2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+|+Node.js+|+JavaScript;Passionate+About+Scalable+Web+Apps;Let's+Build+Something+Awesome!" />
@@ -30,6 +28,17 @@ Here's your updated GitHub README with the Top Languages section dynamically upd
 
 ---
 
+## 🚀 **Featured Projects**
+Here are some of my best projects:
+
+- **[Project Name](GitHub Repo Link)** - A brief description of what it does.
+- **[Another Project](GitHub Repo Link)** - Another cool project with a short summary.
+- **[Awesome AI Project](GitHub Repo Link)** - AI-powered web application that does XYZ.
+
+*(Feel free to update these with actual project links.)*
+
+---
+
 ## 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" />
@@ -51,6 +60,23 @@ Here's your updated GitHub README with the Top Languages section dynamically upd
 
 ---
 
+## 📌 **Pinned Repositories**
+Check out some of my pinned repositories on GitHub:  
+➡️ [GitHub Profile](https://github.com/Cannymirah22?tab=repositories)
+
+---
+
+## 📜 **Tech Blogs & Articles**
+I love sharing knowledge! Check out some of my latest articles:  
+
+- **[Article Title](Blog Link)** - A brief summary of the blog.
+- **[Another Blog](Blog Link)** - An interesting article on web development.
+- **[AI & Web Development](Blog Link)** - How AI is transforming the web.
+
+*(Feel free to update these with actual blog links.)*
+
+---
+
 ## 🌍 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/gideon-dadey-263128182/" target="_blank">
@@ -66,6 +92,13 @@ Here's your updated GitHub README with the Top Languages section dynamically upd
 
 ---
 
+## 📊 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cannymirah22&color=blue" alt="Profile Views" />
+</p>
+
+---
+
 ## ⚡ **Fun Fact**
 💡 **"The best way to learn is to build. Let's create something amazing together!"**  
 🚀 **Let's push the boundaries of what's possible in web development!**
@@ -76,12 +109,4 @@ Here's your updated GitHub README with the Top Languages section dynamically upd
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
-
-What Changed?
-
-✅ Top Languages Section Now Updates Automatically
-✅ Languages Update Every 2 Hours (cache_seconds=7200)
-✅ More Dynamic & Future-Proof!
-
-Copy and paste this into your GitHub README file, and it will update automatically as you push new projects! 🚀
 
