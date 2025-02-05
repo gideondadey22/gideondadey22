@@ -30,23 +30,37 @@
 
 ## 📊 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" />
+  </picture>
 </p>
 
+---
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" />
-  <br />
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=default" />
+  </picture>
+</p>
 
 ---
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=radical&margin-w=15&margin-h=15" />
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=radical&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=flat&margin-w=15&margin-h=15" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=flat&margin-w=15&margin-h=15" />
+  </picture>
 </p>
 
 ---
+
 ## 📌 **Pinned Repositories**
 Check out some of my pinned repositories on GitHub:  
 ➡️ [GitHub Profile](https://github.com/Cannymirah22?tab=repositories)
@@ -85,4 +99,3 @@ Check out some of my pinned repositories on GitHub:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
-
