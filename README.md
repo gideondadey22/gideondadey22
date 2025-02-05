@@ -1,3 +1,5 @@
+Here's your updated GitHub README with the Top Languages section dynamically updating:
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38C2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+|+Node.js+|+JavaScript;Passionate+About+Scalable+Web+Apps;Let's+Build+Something+Awesome!" />
@@ -44,7 +46,7 @@
 
 ## 📊 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 ---
@@ -74,3 +76,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
+
+What Changed?
+
+✅ Top Languages Section Now Updates Automatically
+✅ Languages Update Every 2 Hours (cache_seconds=7200)
+✅ More Dynamic & Future-Proof!
+
+Copy and paste this into your GitHub README file, and it will update automatically as you push new projects! 🚀
+
