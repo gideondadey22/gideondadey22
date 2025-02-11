@@ -31,9 +31,9 @@
 ## 📊 **Top Languages**
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannymirah22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gideondadey22&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gideondadey22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideondadey22&layout=compact&langs_count=10&theme=default&cache_seconds=7200" />
   </picture>
 </p>
 
