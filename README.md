@@ -42,9 +42,9 @@
 ## 📈 **GitHub Stats**
 <p align="center">
   <picture>
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=github_dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cannymirah22&theme=default" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gideondadey22&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gideondadey22&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gideondadey22&theme=default" />
   </picture>
 </p>
 
@@ -53,9 +53,9 @@
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=radical&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=flat&margin-w=15&margin-h=15" media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Cannymirah22&theme=flat&margin-w=15&margin-h=15" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=gideondadey22&theme=radical&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=gideondadey22&theme=flat&margin-w=15&margin-h=15" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gideondadey22&theme=flat&margin-w=15&margin-h=15" />
   </picture>
 </p>
 
@@ -63,7 +63,7 @@
 
 ## 📌 **Pinned Repositories**
 Check out some of my pinned repositories on GitHub:  
-➡️ [GitHub Profile](https://github.com/Cannymirah22?tab=repositories)
+➡️ [GitHub Profile](https://github.com/gideondadey22?tab=repositories)
 
 ---
 
