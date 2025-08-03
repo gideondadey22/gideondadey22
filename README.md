@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideondadey22&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gideondadey22&show_icons=true&theme=tokyonight&title_color=38C2FF&text_color=FFFFFF&icon_color=38C2FF&bg_color=1A1B27&hide_rank=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideondadey22&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideondadey22&layout=compact&theme=tokyonight&title_color=38C2FF&text_color=FFFFFF&icon_color=38C2FF&bg_color=1A1B27&langs_count=8" />
 </p>
 
 ---
