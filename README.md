@@ -4,8 +4,8 @@
 
 - 🎯 Passionate about creating scalable web apps & AI-driven tools  
 - 🌍 Based in Accra, Ghana · Remote-friendly  
-- 🌐 Portfolio: [gideondadey.dev](https://yourportfolio.com/)  
-- 📧 Reach me: [gideon@example.com](mailto:gideon@example.com)  
+- 🌐 Portfolio: [gideondadey.dev](https://https://my-portfolio-website-two-phi.vercel.app//)  
+- 📧 Reach me: [gideon@example.com](mailto:gideondadey@gmail.com)  
 
 <br>
 
