@@ -1,4 +1,4 @@
-🌐 Portfolio: [My Portfolio](https://my-portfolio-website-two-phi.vercel.app//)  
+🌐 Portfolio: [My Portfolio Website](https://my-portfolio-website-two-phi.vercel.app//)  
 
 📧 Reach me: [gideondadey@gmail.com](mailto:gideondadey@gmail.com)  
 
